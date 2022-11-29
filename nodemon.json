@@ -1,0 +1,5 @@
+{
+	"env": {
+		"MongoDB_URL": "mongodb://localhost/Adventure"
+	}
+}
